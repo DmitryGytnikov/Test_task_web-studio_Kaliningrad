@@ -87,17 +87,12 @@ ul {
   // @media (max-width: 760px) {
   //   // overflow: hidden; //Запрет скролла при открытом меню
   // }
-  overflow-x: hidden;
+  // overflow-x: hidden;
 }
-
-.page.page--hidden {
-  overflow: hidden; //Запрет скролла при открытом меню
-}
-
 
 // container
 .container {
-  max-width: 1360px;
+  max-width: 1450px;
   margin: 0 auto;
   padding: 0 20px;
 
